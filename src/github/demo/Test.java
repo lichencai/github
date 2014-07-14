@@ -1,7 +1,7 @@
 package github.demo;
 
-public class Demo {
+public class Test {
 	public static void main(String[] args){
-		System.out.println("hello word githut");
+		System.out.println("test");
 	}
 }
